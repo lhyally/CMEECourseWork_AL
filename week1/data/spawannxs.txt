@@ -1,0 +1,597 @@
+ANNEX I
+List of Species of Marine and Coastal Flora 
+Protected Under Article 11(1)(a)
+
+TrACHAEOPHYTA (Vascular Plants)
+
+Family		Genus		Species
+
+Aquifoliaceae	Ilex		cookii
+Bignoniaceae	Crescentia	mirabilis
+Bignoniaceae	Crescentia	portoricensis
+Boraginaceae	Cordia		wagnerorum
+Buxaceae	Buxus		vahlii
+Cactaceae	Echinocereus 	reichenbachii var. albertii
+Cactaceae	Harrisia	fragrans
+Cactaceae	Harrisia	portoricensis
+Cactaceae	Leptocereus	grantianus
+Cactaceae	Leptocereus	wrightii
+Cactaceae	Melocactus	guitartii
+Cactaceae	Melocactus 	harlowii sensu lato
+Cactaceae	Pilosocereus	deeringii
+Cactaceae	Pilosocereus	robinii
+Convolvulaceae	Bonamia		grandiflora
+Convolvulaceae	Ipomoea		flavopurpurea
+Convolvulaceae	Ipomoea		walpersiana
+Cyatheaceae	Cyathea		dryopteroides
+Cyperaceae	rhynchospora	bucherorum
+Dioscoreaceae	rajania		theresensis
+Ericaceae	rhododendron	chapmanii
+Euphorbiaceae	Andrachne	brittonii
+Euphorbiaceae	Bernardia	venosa
+Euphorbiaceae	Cnidoscolus	fragrans
+Euphorbiaceae	Drypetes	triplinervia
+Flacourtiaceae	Banaras		vanderbiltii
+Flacourtiaceae	Samyda		microphylla
+Hydrophyllaceae	Hydrolea	torroei
+Icacinaceae	Ottoschulzia 	rhodoxylon
+Leguminosae	Acacia		cupeyensis
+(Fabaceae)
+Leguminosae	Acacia		roigii
+Leguminosae	Stahlia		monosperma
+Liliaceae	Harperocallis	flava
+Loranthaceae	Dendropemon	acutifolius
+Malvaceae	Abutilon	virginianum
+Meliaceae	Trichilia	triacantha
+Olacaceae	Ximenia		roigii
+Orchidaceae	Brachionidium	ciliolatum
+Orchidaceae	Cranichis	ricartii
+Orchidaceae	Lapanthes	eltoroensis
+Orchidaceae	Oncidium	jacquinianum
+Palmae		Calyptronoma	rivalis
+(Arecaceae)
+Piperaceae	Peperomia	wheeleri
+rhamnaceae	Doerpfeldia	cubensis
+rubiaceae	Catesbaea	macracantha
+rubiaceae	Phyllacanthus	grisebachianus
+rubiaceae	rondeletia	apiculata
+rubiaceae	rondeletia	rugelii
+rutaceae	Zanthoxylum	thomasianum
+Solanaceae	Goetzea		elegans
+Theaceae	Ternstroemia	luquillensis
+Theophrastaceae	Jacquinia	curtissii
+Thymelaeaceae	Daphnopsis	helleriana
+Verbenaceae	Cornutia	obovata
+Verbenaceae	Duranta		parviflora
+Verbenaceae	Nashia		myrtifolia
+
+
+ANNEX II 
+List of Species of Marine and Coastal Fauna 
+Protected Under Article 11(1)(b)
+
+Class:	GASTrOPODA
+Order:	PULMONATA
+Family		Genus		Species
+
+Bulimulidae	Orthalicus	reses reses
+	
+Class:	OSIEICHIHYFS
+Order:	PErCIFOrMES
+Family		Genus		Species
+
+Percidae	Etheostoma	okaloosae
+Percidae	Etheostoma	rubrum
+
+Class:	AMPHIBIA
+Order:	ANUrA
+Family		Genus		Species
+
+Bufonidae	Bufo		houstonensis
+Bufonidae	Peltophryne	lemur
+Hylidae		Amphodus	auratus
+Leptodactylidae	Eleutherodactylus barlagnei
+Leptodactylidae	Eleutherodactylus jasperi
+Leptodactylidae	Eleutherodactylus johnstonei
+Leptodactylidae	Eleutherodactylus martinicensis
+Leptodactylidae	Eleutherodactylus pinchoni
+Leptodactylidae	Sminthilus	limbatus
+
+Order: 	CAUDATA
+Family		Genus		Species
+
+Plethodontidae	Phaeognathus	hubrichti
+
+Class:	rEPTILIA
+Order:	CrOCODILIA
+Family		Genus		Species
+
+Alligatoridae	Melanosuchus	niger
+Crocodilidae	Crocodylus	acutus
+Crocodilidae	Crocodylus	intermedius
+Crocodilidae	Crocodylus	moreletii
+
+Order:	SQUAMATA
+Family		Genus		Species
+
+Boidae		Epicrates	inornatus
+Boidae		Epicrates	monensis granti
+Boidae		Epicrates	monensis monensis
+Colubridae	Nerodia		fasciata taeniata
+Gekkonidae	Sphaerodactylus	micropithecus
+Iguanidae	Anolis		roosevelti
+iguanidae	Cyclura		carinata
+Iguanidae	Cyclura		collei
+Iguanidae	Cyclura		cyclura
+Iguanidae	Cyclura		nubila
+Iguanidae	Cyclura		pinguis
+Iguanidae	Cyclura		ricordii
+Iguanidae	Cyclura		rileyi
+Iguanidae	Cyclura		stejnegeri
+Scincidae	Eumeces		egregius
+Scincidae	Neoseps		reynoldsi
+Teiidae		Ameiva		polops
+Typhlopidae	Typhlops	guadeloupensis
+
+Order:	TESTUDINES
+Family		Genus		Species
+
+Cheloniidae	Caretta		caretta
+Cheloniidae	Chelonia	mydas
+Cheloniidae	Eretmochelys	imbricata
+Cheloniidae	Lepidochelys	kempii
+Cheloniidae	Lepidochelys	olivacea
+Dermochelyidae	Dermochelys	coriacea
+Emydidae	Graptemys	oculifera
+Emydidae	Pseudemys	alabamensis
+Testudinidae	Gopherus	polyphemus
+
+Class:	AVES
+Order:	PrOCELLArIIFOrMES
+Family		Genus		Species
+
+Hydrobatidae	Hydrobates	pelagicus
+Procellaiiidae	Puffinus	lherminieri
+
+Order:	PELECANIFOrMES
+Family		Genus		Species
+
+Pelecanidae 	Pelecanus	occidentalis
+
+Order:	CICONIIFOrMES
+Family		Genus		Species
+
+Ciconiidae	Jabiru		mycteria
+Ciconiidae	Mycteria	americana
+
+
+Order:	FALCONIFOrMES
+Family		Genus		Species
+
+Accipitridae	Chondrohierax	uncinatus
+Accipitridae	Haliaeetus	leucocephalus
+Accipitridae	Harpia		harpyja
+Accipitridde	rostrhamus	sociabilis plumbeus
+Falconidae	Falco		femoralis septentrionalis
+Falconidae	Falco		peregrinus
+Falconidae	Polyborus	plancus
+
+Order:	GALLIFOrMES
+Family		Genus		Species
+
+Cracidae	Aburria		pipile
+		(= Pipile)
+Phasianidae	Tympanuchus	cupido attwateri
+
+Order:	GrUIFOrMES
+Family		Genus		Species
+
+Gruidae		Grus		americana
+Gruidae		Grus		canadensis nesiotes
+Gruidae		Grus		canadensis pulla
+
+Order:	CHArADrIIFOrMES
+Family		Genus		Species
+
+Charadriidae	Charadrius	melodus
+Laridae		Sterna		antillarum antillarum
+Laridae		Sterna		dougallii dougallii
+Scolopacidae	Numenius	borealis
+
+Order:	COLUMBIFOrMES
+Family		Genus		Species
+
+Columbidae	Columba		inornata wetmorei
+
+Order:	PSITTACIFOrMES
+Family		Genus		Species
+
+Psittacidae	Amazona		arausica
+Psittacidae	Amazona		barbadensis
+Psittacidae	Amazona		guildingii
+Psittacidae	Amazona		imperialis
+Psittacidae	Amazona		leucocephala
+Psittacidae	Amazona		versicolor
+Psittacidae	Amazona		vittata
+Psittacidae	Ara		macao
+
+
+Order:	CAPrIMULGIFOrMES
+Family		Genus		Species
+
+Caprimulgidae	Caprimulgus	noctitherus
+
+Order:	PICIFOrMES
+Family		Genus		Species
+
+Picidae		Picoides	borealis
+
+Order:	PASSErIFOrMES
+Family		Genus		Species
+
+Corvidae 	Aphelocoma	coerulescens cyanotis
+Corvidae 	Corvus		leucognaphalus
+Emberezidae 	Carduelis	cucullata
+Emberezidae 	Vermivora	bachmanii
+Emberizidae 	Ammodramus	maritimus mirabilis
+Emberizidae 	Ammodramus	savannarum floridanus
+Embetizidae 	Dendroica	kirtlandii
+Mimidae 	Cinclocerthia	ruficauda
+Mimidae		ramphocinclus	brachyurus
+
+
+Class:	MAMMALIA
+Order:	CArNIVOrA
+Family		Genus		Species
+
+Canidae		Speothos	venaticus
+Felidae		Felis		pardalis
+Felidaes	Felis		tigrina
+Felidae		Felis		wiedii
+Felidae		Felis		yagouaroundi
+Phocidae	All spp.	
+Mustelidae	Pteronura	brasiliensis
+Ursidae		Tremarctos	ornatus
+
+Order:	CETACEA
+
+All spp.
+
+Order:	CHIrOPTErA
+Family		Genus		Species
+
+Molossidae	Tadarida	brasiliensis
+Mormoopidae	Pteronotus	davyi
+Phyllostomatidae Ardops		nicollsi
+Phyllostomatidae Brachyphylla	cavernarum
+Phyllostomatidae Chiroderma	improvisum
+Vespertilionidae Eptesicus	guadeloupensis
+
+
+Order:	EDENTATA
+Family		Genus		Species
+
+Dasypodidae	Priodontes	maximus (= giganteus)
+
+Order:	LAGOMOrPHA
+Family		Genus		Species
+
+Leporidae	Sylvilagus	palustris hefneri
+	
+Order:	MArSUPIALIA
+Family		Genus		Species
+
+Didelphidae	Chironectes 	minimus
+
+Order:	PrIMATES
+Family		Genus		Species
+
+Cebidae		Alouatta	palliata
+
+Order:	rODENTIA
+Family		Genus		Species
+
+Capromyidae	Capromys	angelcabrerai
+		(= Mesocapromys)
+Capromyidae	Capromys	auritus
+Capromyidae	Capromys	garridoi
+Capromyidae	Capromys	nanus
+Capromyidae	Capromys	sanfelipensis
+Dasyproctidae	Dasyprocta	guamara
+Muridae		Neotoma		floridana smalli
+Muridae		Peromyscus	gossypinus allapaticola
+Muridae		Peromyscus	polionotus allophrys
+Muridae		Peromyscus	polionotus ammobates
+Muridae		Peromyscus	polionotus niveiventris
+Muridae		Peromyscus	polionotus phasma
+Muridae		Peromyscus 	polionotus trissyllepsis
+
+Order: 	SIrENIA
+
+All spp.
+
+
+ANNEX III
+
+List of Species of Marine and Coastal 
+Flora and Fauna Protected Under Article 11(1)(c)
+
+FLOrA
+TrACHAEOPHYTA (Vascular Plants)
+Family		Genus		Species
+
+Agavaceae	Nolina		brittoniana
+Asclepiadaceae	Asclepias	viridula
+Cactaceae	Melocactus	intortus
+Cactaceae	Opuntia (= Consolea) macracantha
+Combretaceae	Conocarpus	erectus
+Combretaceae	Laguncularia	racemosa
+Compositae	Verbesina	chapmanii
+(Asteraceae)
+Cymodoceaceae	Halodule	wrightii (= ciliata/bermudensis
+						/beaudettei)
+Cymodoceaceae	Syringodium	filiforme
+			(= Cymodocea manitorum)
+Euphorbiaceae	Chamaesyce	deltoidea ssp. serpyllum
+Euphorbiaceae	Euphorbia	telephioides
+Gramineae	Schizachyrium	niveum
+(Poaceae)
+Hydrocharitaceae Thalassia	testudinum
+Hydrocharitaceae Halophila	baillonis (= aschersonii)
+Hydrocharitaceae Halophila	decipiens
+Hydrocharitaceae Halophila	engelmannii
+Iridaceae	Salpingostylis	coelestina
+Labiatae	Conradina	glabra
+(Lamiaceae)
+Labiatae	Hedeoma		graveolens
+Labiatae	Macbridea	alba
+Labiatae	Scutellaria	floridana
+Leguminosae	Chamaecrista 	lineata var. keyensis
+(Fabaceae)
+Leguminosae	Clitoria	fragrans
+Leguminosae	Vicia		ocalensis
+Lentibulariaceae Pinguicula	ionantha
+Lythraceae	Cuphea		aspera
+Nyctaginaceae	Caribea		littoralis
+Orchidaceae	Elleanthus	dussii
+Orchidaceae	Epidendrum	mutelianum
+Palmae		roystonea	elata
+(Arecaceae)
+Palmae		roystonea	oleracea
+Palmae		Syagrus (= rhyticocos)	amara
+Polygalaceae	Polygala	lewtonii
+Polygonaceae	Eriogonum 	longifolium var. gnaphaliolium
+rhizophoraceae	rhizophora	mangle
+ruppiaceae	ruppia		maritima
+Taxaceae	Taxus		floridana
+Verbenaceae	Avicennia	germinans (= nitida)
+Verbenaceae	Verbena		tampensis
+Zygophyllaceae	Guaiacum	officinale
+
+FAUNA
+Class:	HYDrOZOA
+Order:	MILLEPOrINA
+Family		Genus		Species
+
+Milleporidae	All spp.
+
+Order:	STYLASTErINA
+Family		Genus		Species
+
+Stylasteridae	All spp.
+
+Class:	ANTHOZOA
+Order:	ANTIPATHArIA
+
+All spp.
+
+Order:	GOrGONIACEA
+
+All spp.
+
+Order:	SCLErACTINIA
+
+All spp.
+
+Class:	PELECYPODA
+Order:	EULAMELLIBrANCHIA
+Family		Genus		Species
+
+Margaritiferidae Margaritifera	hembeli
+
+Class:	MOLLUSCA
+Order:	MESOGASTrOPODA
+Family		Genus		Species
+
+Strombidae 	Strombus	gigas
+
+Class:	CrUSTACEA
+Order:	DECAPODA
+Family		Genus		Species
+
+Panuliridae 	Panulirus	argus
+
+Class:	rEPTILIA
+Order:	CrOCODILIA
+Family		Genus		Species
+
+Crocodilidae	Crocodylus	rhombifer
+
+Order:	SQUAMATA
+Family		Genus		Species
+
+Boidae		Boa		constrictor
+Iguanidae	Iguana		delicatissima
+Iguanidae	Iguana		iguana
+
+Order:	TESTUDINES
+Family		Genus		Species
+
+Kinosternidae	Kinosternon	scorpioides
+Pelomedusidae	Podocnemis	cayennensis
+Pelomedusidae	Podocnemis	vogli
+
+Class:	AVES
+Order:	CICONIIFOrMES
+Family		Genus		Species
+
+Threskiornithidae Eudocimus	ruber
+
+Order:	ANSErIFOrMES
+Family		Genus		Species
+
+Anatidae	Cairina		moschata
+Anatidae	Dendrocygna	arborea
+Anatidae	Dendrocygna	bicolor
+
+Order:	FALCONIFOrMES
+Family		Genus		Species
+
+Cathartidae	Sarcoramphus	papa
+
+Order:	PHOENICOPTErIFOrMES
+Family		Genus		Species
+
+Phoenicopteridae Phoenicopterus	ruber
+
+Order:	PSITTACIFOrMES
+Family		Genus		Species
+
+Psittacidae	Amazona		ochrocephala
+Psittacidae	Ara		ararauna
+Psittacidae	Ara		chloroptera
+Psittacidae	Arao		manilata
+
+Order:	PASSErIFOrMES
+Family		Genus		Species
+
+Cotingidae	rupicola	rupicola
+Emberizidae	Agelaius	xanthomus
+
+Class:	MAMMALIA
+Order:	CArNIVOrA
+Family		Genus		Species
+
+Mustelidae	Eira		barbara
+Mustelidae	Galictis	vittata
+Mustelidae	Lutra		longicaudus (= enudris)
+
+Order:	CHIrOPTErA
+Family		Genus		Species
+
+Phyllostomidae	Vampyrum	spectrum
+
+Order:	EDENTATA
+Family		Genus		Species
+
+Myrmecophagidae	Myrmecophaga	tridactyla
+Myrmecophagidae	Tamandua	tetradactyla
+
+Order:	PrIMATES
+Family		Genus		Species
+
+Cebidae		Alouatta	seniculus
+Cebidae		Cebus		albifrons
+
+
+
+APPENDIX
+
+SPECIES rECOMMENDED FOr PrIOrITY CONSIDErATION AT THE
+NEXT AVAILABLE OPPOrTUNITY
+
+(Annex V of the report of the Meeting of the Ad Hoc 
+Group of Experts for the Development of Annexes 
+to the Protocol Concerning Specially Protected Areas 
+and Wildlife in the Wider Caribbean region, 
+Martinique, 5-8 November 1990, UNEP(OCA)/CAr WG.4/4.)
+
+(a) For inclusion in Annex II
+
+Class:	MOLLUSCA
+Order:	MESOGASTrOPODA
+Family		Genus		Species
+
+Cassidae	Cassis		flammea
+Cassidae	Cassis		madagascariensis
+Cassidae	Cassis		tuberosa
+Cymatiidae	Charonia	tritonis nobilis
+Strombidae	Strombus	costatus
+Strombidae	Strombus	gallus
+Strombidae	Strombus	paninos
+Strombidae	Strombus	pugilis
+
+Class:	AVES
+Order:	PELECANIFOrMES
+Family		Genus		Species
+
+Fregatidae	Fregata		magnificens
+Phaetonidae	Phaeton		aethereus
+Phaetonidae	Phaeton		lepturus
+Sulidae		Sula		dactylatra
+Sulidae		Sula		leucogaster
+
+Order:	CICONIIFOrMES
+Family		Genus		Species
+
+Ardeidae	Casmerodius	albus (= Egretta alba)
+Ardeidae	Egretta		caerulea
+Ardeidae	Egretta		tricolor
+Ardeidae	Nycticorax	nycticorax
+Ardeidae	Nycticorax	violaceus
+Threskiornithidae Eudocimus	ruber
+Threskiornithidae Plegadis	falcinellus
+
+Order:	CHArADrIIFOrMES
+Family		Genus		Species
+
+Laridae		Anous		stolidus
+Laridae		Sterna		anaethetus
+Laridae		Sterna		elegans
+Laridae		Sterna		fuscata
+Laridae		Sterna		hirundo
+Laridae		Sterna		maxima
+Laridae		Sterna		sandvicensis
+
+Order:	FALCONIFOrMES
+Family		Genus		Species
+
+Pandionidae	Pandion		haliaetus
+
+Order:	GrUIFOrMES
+Family		Genus		Species
+
+rallidae	Gallinula	chloropolus
+
+
+(b) For inclusion in Annex III
+
+FLOrA
+Family		Genus		Species
+
+Aizoaceae	Sesuvium	portulacastrum
+Bataceae	Batis		maritima
+Chenopodiaceae	Salicornia	bigelovii
+
+FAUNA
+Class:	AVES
+Order:	FALCONIFOrMES
+Family		Genus		Species
+
+Falconidae	Falco		columbarius
+
+Order:	GrUIFOrMES
+Family		Genus		Species
+
+rallidae	Fulica		caribaea
+
+
+
+
+
+
+
+
+
+
+
