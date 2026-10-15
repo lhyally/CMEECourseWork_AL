@@ -1,0 +1,13 @@
+source_row,record_id,reasons
+26,,missing record_id
+27,ST004,duplicate record_id
+28,TREE27,invalid record_id
+29,ST028,invalid location
+30,ST029,invalid genus
+31,ST030,missing species
+32,ST031,invalid genus/species combination
+33,ST032,missing distance_m
+34,ST033,invalid distance_m
+35,ST034,distance_m out of range
+36,ST035,angle_degrees out of range
+37,ST036,invalid location;missing genus;missing species;invalid distance_m;missing angle_degrees

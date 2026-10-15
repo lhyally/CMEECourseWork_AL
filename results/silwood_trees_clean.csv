@@ -1,0 +1,25 @@
+record_id,location,genus,species,distance_m,angle_degrees
+ST001,Silwood Bottom,Quercus,robur,12.5,35.0
+ST002,Nash's Field,Quercus,petraea,8.2,41.0
+ST003,Manor House,Acer,pseudoplatanus,15.0,28.0
+ST004,Reactor Wood,Betula,pendula,7.5,52.0
+ST005,Silwood Bottom,Fagus,sylvatica,20.1,33.0
+ST006,Nash's Field,Fraxinus,excelsior,11.0,45.0
+ST007,Silwood Bottom,Quercus,robur,9.4,38.0
+ST008,Manor House,Quercus,petraea,14.7,31.0
+ST009,Reactor Wood,Acer,pseudoplatanus,6.8,49.0
+ST010,Silwood Bottom,Betula,pendula,18.3,26.0
+ST011,Nash's Field,Fagus,sylvatica,10.2,43.0
+ST012,Manor House,Fraxinus,excelsior,13.6,37.0
+ST013,Reactor Wood,Quercus,robur,5.9,55.0
+ST014,Silwood Bottom,Quercus,petraea,21.4,24.0
+ST015,Nash's Field,Acer,pseudoplatanus,16.2,30.0
+ST016,Manor House,Betula,pendula,9.8,47.0
+ST017,Reactor Wood,Fagus,sylvatica,17.5,29.0
+ST018,Silwood Bottom,Fraxinus,excelsior,12.9,40.0
+ST019,Nash's Field,Quercus,robur,7.7,51.0
+ST020,Manor House,Quercus,petraea,19.6,27.0
+ST021,Reactor Wood,Acer,pseudoplatanus,8.5,44.0
+ST022,Silwood Bottom,Betula,pendula,10.7,39.0
+ST023,Nash's Field,Fagus,sylvatica,22.0,23.0
+ST024,Manor House,Fraxinus,excelsior,6.3,58.0
