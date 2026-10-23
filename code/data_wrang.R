@@ -1,0 +1,85 @@
+################################################################
+################## Wrangling the Pound Hill Dataset ############
+################################################################
+
+############# Load the dataset ###############
+# header = false because the raw data don't have real headers
+MyData <- as.matrix(read.csv("../data/pound_hill_data.csv", header = FALSE))
+
+# header = true because we do have metadata headers
+MyMetaData <- read.csv("../data/pound_hill_meta_data.csv", header = TRUE, sep = ";")
+
+############# Inspect the dataset ###############
+head(MyData)
+dim(MyData)
+str(MyData)
+fix(MyData) #you can also do this
+fix(MyMetaData)
+
+############# Transpose ###############
+# To get those species into columns and treatments into rows 
+MyData <- t(MyData) 
+head(MyData)
+dim(MyData)
+
+############# replace species absences with zeros ###############
+MyData[MyData == ""] = 0
+
+############# Convert raw matrix to data frame ###############
+
+TempData <- as.data.frame(MyData[-1,],stringsAsFactors = F) #stringsAsFactors = F is important!
+colnames(TempData) <- MyData[1,] # assign column names from original data
+
+############# Convert from wide to long format  ###############
+require(reshape2) # load the reshape2 package
+
+?melt #check out the melt function
+
+MyWrangledData <- melt(TempData, id=c("Cultivation", "Block", "Plot", "Quadrat"), variable.name = "Species", value.name = "Count")
+
+MyWrangledData[, "Cultivation"] <- as.factor(MyWrangledData[, "Cultivation"])
+MyWrangledData[, "Block"] <- as.factor(MyWrangledData[, "Block"])
+MyWrangledData[, "Plot"] <- as.factor(MyWrangledData[, "Plot"])
+MyWrangledData[, "Quadrat"] <- as.factor(MyWrangledData[, "Quadrat"])
+MyWrangledData[, "Count"] <- as.integer(MyWrangledData[, "Count"])
+
+str(MyWrangledData)
+head(MyWrangledData)
+dim(MyWrangledData)
+
+############# Exploring the data (extend the script below)  ###############
+MyData <- t(MyData)
+head(MyData)
+colnames(MyData)
+TempData <- as.data.frame(MyData[-1,], stringAsFactors = FALSE)
+head(TempData)
+
+# stringsAsFactors = FALSE stops R from autimatically converting text columns to factors 
+
+colnames(TempData) <- MyData[1,] # assign column names from original data 
+head(TempData)
+
+rownames(TempData) <- NULL
+head(TempData)
+
+require(reshape2)
+
+MyWrangledData <- melt(TempData, id=c("Cultivation", "Block", "Plot", "Quadrat"), variable.name = "Species", value.name = "Count")
+head(MyWrangledData); tail(MyWrangledData)
+
+MyWrangledData <- dplyr::as_tibble(MyWrangledData)
+MyWrangledData
+glimpse(MyWrangledData) #like str(), but nicer!
+
+filter(MyWrangledData, Count>100)
+slice(MyWrangledData, 10:15) #look at a particular range of data rows
+
+
+str(MyWrangledData$Count)
+head(MyWrangledData$Count)
+MyWrangledData$Count <- as.numeric(as.character(MyWrangledData$Count))
+str(MyWrangledData$Count)
+library(dplyr)
+MyWrangledData %>%
+    group_by(Species) %>%
+        summarise(avg = mean(Count))
